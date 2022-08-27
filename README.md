@@ -11,7 +11,7 @@
 - React
 - Redux
 
-# Front-End Repository
+# Back-End Repository
 [Back-End](https://github.com/ForHemer/hello-rails-back-end)
 
 ## Getting Started
